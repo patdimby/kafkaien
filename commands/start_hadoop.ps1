@@ -1,4 +1,3 @@
-start-dfs.cmd
-start-yarn.cmd
-hdfs dfsadmin -safemode leave
+start-all.cmd
 start-hbase.cmd
+jps
